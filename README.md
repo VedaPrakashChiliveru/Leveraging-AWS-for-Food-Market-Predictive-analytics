@@ -1,7 +1,7 @@
 # Leveraging-AWS-for-Food-Market-Predictive-analytics
 The project is a comprehensive analysis and modeling effort aimed at predicting future food demand based on historical data. Utilizing advanced data processing techniques, statistical analysis, and machine learning models, the project provides valuable insights into demand patterns, helping in efficient resource allocation and strategic planning for food supply chains.
 Key Points:
-•	Perishable Nature: Raw materials are perishable, making precise forecasting essential to minimize waste.
+#•	Perishable Nature: Raw materials are perishable, making precise forecasting essential to minimize waste.
 •	Weekly Replenishment: Raw materials are restocked weekly, demanding effective procurement planning.
 •	Long-Term Forecasting: Predicting 10-week demand accurately is critical to avoid over- or under-ordering.
 •	Data-Driven Approach: Historical data, seasonality, and external factors should guide forecasting models.
